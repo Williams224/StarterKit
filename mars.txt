@@ -3,5 +3,3 @@ mars is a planet
 it is dry here
 
 martians live there
-
-sometimes
